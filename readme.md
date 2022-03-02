@@ -2,3 +2,4 @@
 
 - https://www.youtube.com/watch?v=KhROpuxHyH8
 - added gpg key
+- done
